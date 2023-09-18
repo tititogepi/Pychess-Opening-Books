@@ -1,6 +1,3 @@
-# Here is the moves
-1. Mc2=N 
-# Here is the computer's eval
-1. 0.4
-# Here is the depth used for this move
-1. Depth 30
+# Move (Eval;Depth)
+1. Mc2=N (+0.4;D30) Me6=N (+0.3;D30) 2. Ne3=M (+0.4;D32) Nc5=M (+0.1;D30) 
+1. Mc1=N
